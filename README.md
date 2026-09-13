@@ -6,6 +6,20 @@ An interactive Power BI dashboard designed to transform large-scale banking tran
 
 The project demonstrates an end-to-end data analytics workflow covering data cleaning, data modeling, DAX calculations, customer segmentation, interactive visualization, and business insight generation.
 
+### 📸 Dashboard Preview
+
+![Customer Analysis Dashboard](Screenshots/customer-analysis.png)
+
+![Transaction Analysis Dashboard](Screenshots/transaction-analysis.png)
+
+![Customer Segmentation Dashboard](Screenshots/customer-segmentation.png)
+
+![RFM & Segment Insights](Screenshots/rfm-segment-insights.png)
+
+![Profitability & Risk Analysis](Screenshots/profitability-risk-1.png)
+
+![Profitability & Risk Analysis - Page 2](Screenshots/profitability-risk-2.png)
+
 ---
 
 ## 🎯 Problem Statement
