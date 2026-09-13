@@ -213,3 +213,42 @@ Therefore, the dashboard uses derived behavioral indicators:
 - **Value Score** — represented using the Monetary Score component of the RFM framework.
 
 These are **analytical proxies only** and should not be interpreted as actual credit-risk assessments or financial credit scores.
+
+---
+
+## 💡 Key Business Insights
+
+### Customer Demographics
+- The dataset contains approximately **884K unique customers**, providing a large customer base for behavioral analysis.
+- Male customers represent the majority of the customer base.
+- Customer activity is distributed across more than **9K locations**, enabling geographic-level analysis.
+- The largest customer age groups provide a useful basis for understanding the primary customer demographic.
+
+### Transaction Behavior
+- The dataset contains more than **1.05M transactions** across the observed transaction period.
+- Total transaction value is approximately **₹1.65B**.
+- The average transaction amount is approximately **₹1.57K**.
+- Transaction activity varies by day and time of day, helping identify periods of higher customer engagement.
+- Transaction behavior also varies across customer age groups.
+
+### Customer Segmentation
+- **Lost/Inactive customers form the largest behavioral segment**, indicating a significant group of customers with lower recent engagement.
+- **New customers represent a substantial portion of the customer base**, providing an opportunity for onboarding and retention strategies.
+- **Loyal customers generate the highest average revenue per customer**, highlighting their importance from a customer-value perspective.
+- Segment-level transaction frequency and revenue provide a basis for differentiated customer engagement strategies.
+
+### Customer Value & Behavioral Risk
+- RFM-based analysis provides a behavioral framework for distinguishing customers based on recency, frequency, and monetary value.
+- Higher-value customers can be identified through their monetary contribution and RFM scores.
+- Behavioral risk indicators highlight customers with weaker engagement characteristics.
+- The risk analysis should be interpreted as a **behavioral proxy**, since the original dataset does not contain formal credit-risk or credit-score information.
+
+### Business Applications
+The dashboard can support analytical use cases such as:
+
+- Customer retention and re-engagement
+- High-value customer identification
+- Customer segment targeting
+- Transaction behavior analysis
+- Customer lifecycle analysis
+- Data-driven marketing and engagement strategies
