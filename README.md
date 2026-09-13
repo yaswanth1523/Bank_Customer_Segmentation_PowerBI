@@ -252,3 +252,14 @@ The dashboard can support analytical use cases such as:
 - Transaction behavior analysis
 - Customer lifecycle analysis
 - Data-driven marketing and engagement strategies
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop** — Dashboard development and interactive visualization
+- **Power Query** — Data cleaning, transformation, and preparation
+- **DAX** — Measures, calculated columns, RFM scoring, segmentation, and behavioral indicators
+- **Microsoft Excel / CSV** — Source data handling
+- **Git & GitHub** — Version control and portfolio management
+- **Git LFS** — Large Power BI `.pbix` file management
