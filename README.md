@@ -113,7 +113,7 @@ bank_transactions
      │ * ← 1
      │
 DimDate
-
+```
 ---
 
 ## 📊 Dashboard Pages
