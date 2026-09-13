@@ -1,0 +1,13 @@
+# Local/source files not required in the GitHub portfolio
+bank_transactions.csv
+Power BI Projects_Innomatics.pdf
+Bank_Customer_Segmentation_Dashboard.pdf
+Bank_Customer_Segmentation_Project_Documentation.md
+Bank_Customer_Segmentation_Project_Documentation.txt
+
+# Temporary/system files
+*.tmp
+*.temp
+~$*
+.DS_Store
+Thumbs.db
